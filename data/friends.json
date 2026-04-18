@@ -22,5 +22,57 @@
     "bio": "Colleague from my first job.",
     "goal": 20,
     "next_due_date": "2026-03-10"
+
+
   }
+
+  ,
+{
+  "id": 3,
+  "name": "Lisa Nakamura",
+  "picture": "https://randomuser.me/api/portraits/women/3.jpg",
+  "email": "lisa.nakamura@gmail.com",
+  "days_since_contact": 45,
+  "status": "overdue",
+  "tags": ["university", "close friend"],
+  "bio": "Met during university exchange program in Japan. We love traveling together.",
+  "goal": 30,
+  "next_due_date": "2026-02-01"
+},
+{
+  "id": 4,
+  "name": "James Wright",
+  "picture": "https://randomuser.me/api/portraits/men/4.jpg",
+  "email": "james.wright@gmail.com",
+  "days_since_contact": 5,
+  "status": "on-track",
+  "tags": ["gym", "friend"],
+  "bio": "Gym partner who keeps me motivated. We train together every week.",
+  "goal": 14,
+  "next_due_date": "2026-04-25"
+},
+{
+  "id": 5,
+  "name": "Olivia Martinez",
+  "picture": "https://randomuser.me/api/portraits/women/5.jpg",
+  "email": "olivia.martinez@gmail.com",
+  "days_since_contact": 20,
+  "status": "almost due",
+  "tags": ["work", "team"],
+  "bio": "Teammate at my internship. We often collaborate on projects.",
+  "goal": 21,
+  "next_due_date": "2026-04-18"
+},
+{
+  "id": 6,
+  "name": "Marcus Johnson",
+  "picture": "https://randomuser.me/api/portraits/men/6.jpg",
+  "email": "marcus.johnson@gmail.com",
+  "days_since_contact": 60,
+  "status": "overdue",
+  "tags": ["school", "old friend"],
+  "bio": "Childhood friend. Haven't talked in a while but planning to reconnect.",
+  "goal": 30,
+  "next_due_date": "2026-01-30"
+}
 ]
