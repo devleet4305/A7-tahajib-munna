@@ -11,10 +11,9 @@ export default function Stats() {
     value: entries.filter((e) => e.type === t).length
   }));
 
-  // 🎨 COLORS (important fix)
+  
   const COLORS = ["#22c55e", "#3b82f6", "#f59e0b"]; 
-  // green, blue, yellow (clean + distinguishable)
-
+ 
   return (
     <div className="p-6 text-center">
       <h1 className="text-xl font-bold mb-4">
